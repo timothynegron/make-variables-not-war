@@ -2,10 +2,27 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = 'Timothy';
 
+let myLastName = 'Negron';
 
+let myBestFriend = 'Thanh Negron-Tran';
 
+let mySentence = 'This is a sentence.';
 
+let myFavoriteNum = 1;
+
+let myMentalAge = 32;
+
+let myHeight = 69;
+
+let myFavoriteYear = 2020;
+
+let mySum = 3 + 1918 + 24 + 1;
+
+let myProduct = 232 * 43 / 2 + 4;
+
+let myHeightAndAge = myHeight + myMentalAge;
 
 
 /*********************************************************************************************************************
